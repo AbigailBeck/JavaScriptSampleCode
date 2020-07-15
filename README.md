@@ -1,2 +1,2 @@
 # bingap
-Find longest sequence of zero in binary representation surrounded by one in an integer.
+Find longest sequence of zero surrounded by one in binary representation of an integer.
