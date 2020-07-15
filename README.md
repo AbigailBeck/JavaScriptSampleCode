@@ -1,2 +1,2 @@
 # bingap
-JavaScript Binary Gap
+Find longest sequence of zero in binary representation surrounded by one in an integer.
